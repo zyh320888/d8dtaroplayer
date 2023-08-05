@@ -1,0 +1,10 @@
+/* 适应 navbar 小程序情况 */
+.nut-navbar__left {
+  top:unset;
+  bottom:13px;
+}
+
+/* tabpane padding设置为0 */
+.nut-tabpane-padding{
+  padding:0;
+}
